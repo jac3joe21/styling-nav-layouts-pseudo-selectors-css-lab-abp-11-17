@@ -65,6 +65,20 @@ div.jumbotron {
   line-height: 40px;
 }
 
+div.number2{
+  padding: 0 20px 0 20px;
+}
+
+.number2 h4{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.number2 p{
+  margin-top: 30px;
+}
+
+
 footer{
   border-top: 1px solid #ccc;
   margin-top: 80px;
