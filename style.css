@@ -41,6 +41,9 @@ nav a:hover{
   color: #868e96;
 }
 
+#lab a:hover{
+  text-decoration: underline;
+}
 main{
   margin-top: 20px;
 }
